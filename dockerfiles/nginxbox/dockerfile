@@ -1,5 +1,6 @@
 #Dockerfile
-FROM nginx
+#FROM nginx
+FROM marvambass/nginx-ssl-secure
 #RUN apt-get -y update && apt-get install -y flask
 CMD ls
 
