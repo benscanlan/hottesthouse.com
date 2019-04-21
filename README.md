@@ -1,20 +1,21 @@
 # HottestHouse.com
 
-A better new way to get started in real estate investing.
+A better way to get started in real estate investing.
 
 
 ## The Stack
 
 ![Benchmark Img](https://github.com/benscanlan/httpssl/blob/master/documentation%20/Hottest-House-Stack.png?raw=true)
 
+* Port 80 <-> UWSGI <-> SQL
 
-    python png.com
-    jdjlskahdsa
+HottestHouse.com uses a docker container based architecture.
+
+## Socket Architecture
+
+    docker ps #host port maps to -> docker vm port
+
+## Socket Architecture
 
 
-sadasdsa
-x
-zcdzxz
-
-
-    djshfdsjfhdskj
+## Docker Containers
