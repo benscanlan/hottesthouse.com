@@ -12,4 +12,5 @@ docker run --name docker-nginx \
 -p 8080:80 \
 -e 'DH_SIZE=512' \
 -v $EXT_DIR:/etc/nginx/external/ \
-marvambass/nginx-ssl-secure
+marvambass/nginx-ssl-secure \
+nginx
