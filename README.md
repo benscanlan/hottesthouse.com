@@ -22,7 +22,7 @@ HottestHouse.com uses a docker container based architecture.
 
 ## HottestHouse File Tree
 
-Directory name changed from httpssl to hottesthouse.com in settings of repository. 
+Directory name changed from httpssl to hottesthouse.com in settings of online repository. 
 
     Bens-MacBook-Pro:httpssl benscanlan$ tree
     .
