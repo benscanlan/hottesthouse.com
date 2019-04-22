@@ -20,6 +20,11 @@ HottestHouse.com uses a docker container based architecture.
 
 ## Docker Containers
 
+## Application Features
+
+* Chat about a house
+* Customer Q&A Public Submission page (with alert emails when answered) 
+
 ## HottestHouse File Tree
 
 Directory name changed from httpssl to hottesthouse.com in settings of online repository. 
