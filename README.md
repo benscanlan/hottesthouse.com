@@ -11,6 +11,8 @@ HottestHouse.com uses a docker container based architecture.
 * Container Communication Sockets:
   * Port 80 <-> UWSGI <-> SQL
 
+New stack is nginx reverse proxy, django to handle session security, and postgresql with redis cache and celery message queing. 
+
 ## Socket Architecture
 
     docker ps #host port maps to -> docker vm port
@@ -24,6 +26,7 @@ HottestHouse.com uses a docker container based architecture.
 
 * Chat about a house
 * Customer Q&A Public Submission page (with alert emails when answered) 
+
 
 ## HottestHouse File Tree
 
